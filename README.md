@@ -17,7 +17,7 @@ https://www.mediafire.com/file/cvbv2igae4gagme/chatty-shatty.apk/file
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/iamshivamnanda/paisa.git
+https://github.com/iamshivamnanda/chatty-shatty.git
 ```
 
 **Step 2:**
